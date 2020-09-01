@@ -1,0 +1,24 @@
+{
+  "name": "devflix",
+  "version": "1.0.0",
+  "description": "Netflix project created with flexbox, gulp and sass.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogelio1603/DevFlix.git"
+  },
+  "author": "Rogelio Oseguera de la Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogelio1603/DevFlix/issues"
+  },
+  "homepage": "https://github.com/rogelio1603/DevFlix#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
